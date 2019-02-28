@@ -1,1 +1,1 @@
-wget -N --no-check-certificate 
+wget -N --no-check-certificate https://raw.githubusercontent.com/mike1996/tutorial/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
